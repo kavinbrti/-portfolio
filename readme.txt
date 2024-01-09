@@ -1,8 +1,1 @@
-Thank you for using our template!
-
-For more awesome templates please visit https://colorlib.com/wp/templates/
-
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+"A versatile portfolio showcasing a fusion of business insights from my MBA studies and technical prowess gained during my Computer Science undergraduate journey. Explore a collection of impactful projects reflecting my commitment to bridging the realms of technology and management."
