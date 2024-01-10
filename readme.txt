@@ -1,0 +1,1 @@
+"A versatile portfolio showcasing a fusion of business insights from my MBA studies and technical prowess gained during my Computer Science undergraduate journey. Explore a collection of impactful projects reflecting my commitment to bridging the realms of technology and management."
