@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5 {
   color: #fff;
-  font-weight: 200; }
+  font-weight: 500; }
 
 h2 {
   font-size: 25px; }
@@ -559,9 +559,11 @@ a {
 
 .site-contact-details li {
   list-style: none;
-  margin-bottom: 20px; }
+  margin-bottom: 20px; 
+  color:#62bdfc
+}
   .site-contact-details li > span {
-    color: #2c3e50;
+    color: #b8d9fa;
     letter-spacing: .1em;
     font-size: 12px;
     font-weight: 500;
@@ -623,3 +625,6 @@ a {
 .letter-spacing {
   letter-spacing: .2rem;
   color: rgba(255, 255, 255, 0.5) !important; }
+image{
+  width:200px;
+}
